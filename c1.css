@@ -1,0 +1,231 @@
+#khung{
+    width: 1000px;
+    height: 100%;
+    margin-left: 230px;
+    box-shadow:0 0 10px gray;
+	border: 1px solid grey ;
+}
+.viatren{
+    height: 5px;
+    background-color: 	#00FF82	;
+}
+.dangnhap{
+    height: 40px;
+    background-color: white;
+
+}
+.tk{
+    padding-left: 220;
+   padding-right: 300px;
+   padding-top: 10px;
+}
+.control{
+    height: 25px;
+    width: 250px;
+    
+}
+.nut{
+    height: 30px;
+    background-color: #A85100;
+    border-radius:25px ;
+    color: 	white;
+   
+}
+
+
+.dn{
+    background-color: 	orangered;
+ color: white;
+ height: 30px;
+ margin-right: 50px;
+ 
+}
+.tk i{margin-left: 50px;}
+.conbo{
+    float: right;
+    margin: 0;
+    margin-left: 10px;
+   margin-top:10px ;
+}
+.cc{
+    height: 40px;
+    background-color:#00FF82	 ;
+    margin-top: 0px;
+    
+    
+}
+.cc ul li{
+    float: left;
+    list-style: none;
+    padding: 10px 20px;
+    
+}
+.cc ul li a{
+    text-decoration: none;
+    font-family: arial;
+    font-weight: bold;
+    color: black    ;
+    
+}
+
+    
+.cc ul{
+    
+    margin-left: 180px;
+}
+.cc a:hover{
+    text-decoration: underline white;
+}
+.khung1{
+    background-color: gray;
+}
+.anh3{
+    width: 1000px;
+    height: 500px;
+   float: left;
+   margin-left: 0px;
+   margin-top: 0px;
+   background-color:#00FF82 ;
+}
+
+.menudung{
+    margin-top: 5px;
+    padding: 5px;
+    list-style: none;
+    float: right;
+    background-color: white;
+    height: 1300px;
+    border-bottom: 1px solid grey;
+    background-color: 		#A86B00;
+}
+.menudung ul li{
+    list-style: none;
+    margin-right: 10px;
+    
+}
+.menudung a{
+    background: url(ảnh/i.jpg) no-repeat 0px center;
+    display: block;
+    border-bottom: 1px dotted white;
+    color: white;
+    font-variant: small-caps;
+     font-size:larger ;
+     text-decoration:none;
+     padding: 8px 5px 8px 30px;
+     font-family: arial;
+     background-size: 20px;
+     float: left;
+     margin-bottom: 20px;
+}
+.menudung a:hover{
+    color: rgb(36, 36, 196);
+}
+.nd{
+    margin-top: 5px;
+    width: 750px;
+    float: left;
+    height: 1310px;
+    border-bottom: 1px solid grey;
+    background-color: 	#3498DB;
+}
+.khoitin a:hover{
+    text-decoration: underline;
+}
+.tin1{
+    width:750px ;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    margin-bottom:1px ;
+}
+.khoitin{
+    width: 180px;
+    height: 389px;
+    float: left;
+    margin-left: 6px;
+    margin-top: 10px;
+    display: block;
+    overflow: hidden;
+    
+}
+.hinh{
+    border-radius:  5px;
+}
+.khoitin a{
+    text-decoration: none;
+color: white;
+
+}
+.tieude{
+    color:yellow;
+    border-bottom: 3px solid yellow;
+    font-weight: bold;
+    
+}
+
+.tin2{
+    width:750px ;
+    height: 200px;
+    margin-bottom: 80px;
+    padding: 0;
+    float: left;
+    display: block;
+    
+}
+.sach{
+    margin-left: 20px;
+}
+.video{
+    height: 700px;
+    margin-top: 10px;
+}
+.youtube{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+.cuoi{
+    height:260px  ;
+    width: 1000px;
+    border: 3px solid grey ;
+    float: left;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    background-image: url(ảnh/thu.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.cuoi img{
+    width: 200px;
+    height: 180px;
+    margin-left: 290px;
+    border-radius: 3px;
+    
+}
+.bd{margin-right: 70px;
+    font-size: 22px;
+    float: right;
+}
+
+.than{
+    background-color: gray;
+    width: 1000px;
+    height: 2080px;
+    border: 1px solid grey;
+}
+
+.bq{
+    float: left;
+    font-size: 19px;
+    height: 150px;
+   margin-top: 30px;
+   margin-left: 10px;
+}
+.bq1{
+    font-size: 25px;
+    
+}
